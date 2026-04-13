@@ -24,3 +24,4 @@ workflows/        ワークフロー (.json)
 | Text Convert Test | LMStudioPrompt + ShowText のみのシンプルなテスト用ワークフロー。プロンプト変換結果の確認用 |
 | image_qwen_image_edit_2511_multiangle_camera_5side | Qwen 2511 + QwenMultiangleCameraNode で、1枚の入力画像から複数アングル（5方向）の画像を生成 |
 | 5anglePoses | Easy-Use ForLoop + Impact-Pack StringSelector で複数ポーズプロンプトをループ実行し、バッチで画像生成 |
+| color_valiation | ForLoop + StringSelector + Qwen Image Edit で、色名リストから対象オブジェクトのカラーバリエーションを一括生成 |
