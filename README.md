@@ -8,7 +8,3 @@ ComfyUI のカスタムノードとワークフローを管理するリポジト
 custom_nodes/     カスタムノード
 workflows/        ワークフロー (.json)
 ```
-
-## ライセンス
-
-MIT
